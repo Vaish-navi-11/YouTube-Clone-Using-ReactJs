@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Vaish-navi-11/YouTube-Clone-Using-ReactJs.git/static/css/main.16cebafd.css",
-    "main.js": "/Vaish-navi-11/YouTube-Clone-Using-ReactJs.git/static/js/main.03d67732.js",
-    "static/js/453.79faa093.chunk.js": "/Vaish-navi-11/YouTube-Clone-Using-ReactJs.git/static/js/453.79faa093.chunk.js",
-    "static/media/img.jpg": "/Vaish-navi-11/YouTube-Clone-Using-ReactJs.git/static/media/img.7607df56cc50e2b175a0.jpg",
-    "index.html": "/Vaish-navi-11/YouTube-Clone-Using-ReactJs.git/index.html",
-    "main.16cebafd.css.map": "/Vaish-navi-11/YouTube-Clone-Using-ReactJs.git/static/css/main.16cebafd.css.map",
-    "main.03d67732.js.map": "/Vaish-navi-11/YouTube-Clone-Using-ReactJs.git/static/js/main.03d67732.js.map",
-    "453.79faa093.chunk.js.map": "/Vaish-navi-11/YouTube-Clone-Using-ReactJs.git/static/js/453.79faa093.chunk.js.map"
+    "main.css": "/YouTube-Clone-Using-ReactJs/static/css/main.16cebafd.css",
+    "main.js": "/YouTube-Clone-Using-ReactJs/static/js/main.5b6da2ac.js",
+    "static/js/453.79faa093.chunk.js": "/YouTube-Clone-Using-ReactJs/static/js/453.79faa093.chunk.js",
+    "static/media/img.jpg": "/YouTube-Clone-Using-ReactJs/static/media/img.7607df56cc50e2b175a0.jpg",
+    "index.html": "/YouTube-Clone-Using-ReactJs/index.html",
+    "main.16cebafd.css.map": "/YouTube-Clone-Using-ReactJs/static/css/main.16cebafd.css.map",
+    "main.5b6da2ac.js.map": "/YouTube-Clone-Using-ReactJs/static/js/main.5b6da2ac.js.map",
+    "453.79faa093.chunk.js.map": "/YouTube-Clone-Using-ReactJs/static/js/453.79faa093.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16cebafd.css",
-    "static/js/main.03d67732.js"
+    "static/js/main.5b6da2ac.js"
   ]
 }
